@@ -10,8 +10,8 @@ If you don't have *conda* installed, install [miniconda](https://docs.conda.io/p
 Clone the repo and set up the conda environment:
 
 ```
-git clone https://github.com/alexamici/covid-19-notebooks.git
-cd covid-19-notebooks
+git clone https://github.com/Soumyajit2411/COVID-19-Projects.git
+cd COVID-19
 conda env create -f environment.yml
 ```
 
@@ -22,6 +22,8 @@ conda activate COVID19
 jupyter notebook
 ```
 
-# Author
+# Author , Acknowledgements
+
+This project is under progress.
 
 Soumyajit Roy
