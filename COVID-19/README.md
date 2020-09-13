@@ -1,7 +1,7 @@
 # COVID-19-Projects
 
-
-
+The dataset used for these project is taken from a github repository
+https://raw.githubusercontent.com/datasets/covid-19/master/data/countries-aggregated.csv
 
 # Development
 
